@@ -204,7 +204,7 @@ class Battle:
             
         if y == 0:
             print('\n--It had no effect!')
-        
+     
         if y > 0 and y < 1:
             print("\n--It wasn't very effective.")
         
